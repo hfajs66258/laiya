@@ -2554,3 +2554,57 @@ https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w13671654.m3u8
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1238920415.m3u8
 
 
+
+#####LIVE VOLLEY AVC#####
+
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+
+
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+
+
+
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE AVC" tvg-logo="http://ikitv.online/avc.png"
+http://ikitv.online/x/m071.m3u8
+
+
+
+#EXTINF:-1 group-title=" LIVE PROLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png", PRO LIGA 1
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE PROLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png", PRO LIGA 2
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE PROLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png", PRO LIGA 3
+http://ikitv.online/x/m071.m3u8
+
+
+
+#####LIVE VOLLEY PROLIGA######
+ 
+
+
+#EXTINF:-1 group-title=" LIVE PROLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png", PRO LIGA 4
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE PROLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png", PRO LIGA 5
+http://ikitv.online/x/m071.m3u8
+#EXTINF:-1 group-title=" LIVE PROLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png", PRO LIGA 6
+http://ikitv.online/x/m071.m3u8
