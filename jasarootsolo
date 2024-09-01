@@ -4250,187 +4250,400 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 
-================================ LIGA INGGRIS ==========================================================================================
+#####Chanel TV Indonesia Backup#####
 
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , event only
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45b3388e1ade3e9a8c5ebf6e63476d31:0f527d33b27cc9502540da2dfc7ccc68
-https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4505377-605640-418fd6e8808)/master.mpd
+#EXTINF:-1up-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg", group-title="Chanel TV Indonesia Backup",TVRI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg" group-title="Chanel TV Indonesia Backup",Trans TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Trans 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Metro TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",TV One
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",SCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Indosiar
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",RCTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1up-title="Chanel TV Indonesia Backup" tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg", GTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",ANTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",BTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Kompas TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",NET TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",RTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1up-title="Chanel TV Indonesia Backup" tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg", MNC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",CNN Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",CNBC Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",The Indonesia Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="http://images.useetv.com/logo_insert_big1.png" group-title="Chanel TV Indonesia Backup",Insert
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",JAK TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",JTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg" group-title="Chanel TV Indonesia Backup",Kilat TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/eat&go.png" group-title="Chanel TV Indonesia Backup",Eat N Go
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="Chanel TV Indonesia Backup",Lingua Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYi75sypv-mDYiAjkHRGtw6mz4fBGGiS67g&usqp=CAU" group-title="Chanel TV Indonesia Backup",Nature Vision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/seru.png" group-title="Chanel TV Indonesia Backup",Seru Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="Chanel TV Indonesia Backup",Dunia Lain
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg" group-title="Chanel TV Indonesia Backup",Nusantara
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkDW_-5HWTicwbZsWEcE8fNaHfwv8RHsR_w&usqp=CAU" group-title="Chanel TV Indonesia Backup",Musik Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="Chanel TV Indonesia Backup",Song TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg" group-title="Chanel TV Indonesia Backup",Clubbing TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/TV%20MU.jpg" group-title="Chanel TV Indonesia Backup",TV Mu
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/TV%209.jpg" group-title="Chanel TV Indonesia Backup",TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/PIJAR%20TV.jpg" group-title="Chanel TV Indonesia Backup",Pijar TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="Chanel TV Indonesia Backup",Khazanah
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/DAAI%20TV.jpg" group-title="Chanel TV Indonesia Backup",DAAI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/dunia_anak.png" group-title="Chanel TV Indonesia Backup",Dunia Anak
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" group-title="Chanel TV Indonesia Backup",Cartoon TV Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" group-title="Chanel TV Indonesia Backup",Cartoon TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBr5QWyKltrB3ybFc6fdSzkybIK0B9JkGdOA&usqp=CAU" group-title="Chanel TV Indonesia Backup",Cartoon TV Classics
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="Chanel TV Indonesia Backup",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/boomerang.png" group-title="Chanel TV Indonesia Backup",Boomerang
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="Chanel TV Indonesia Backup",Bioskop Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="Chanel TV Indonesia Backup",Series Zone
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq505Bd0BH-e3Chr84A5Ecj97fI8q0WNbyFA&usqp=CAU" group-title="Chanel TV Indonesia Backup",Movies News
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1up-title="Chanel TV Indonesia Backup" tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg",AFN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/DIZI%20PURPLE.jpg" group-title="Chanel TV Indonesia Backup",Dizi
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846169a38c3e61/1901a230a6204d44b4d51f176df0d20c.jpg" group-title="Chanel TV Indonesia Backup",Wai Lana
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060b4163a40be/73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" group-title="Chanel TV Indonesia Backup",SuperYacht TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858119921801816b52686d5e62/fa18ac9f9a8b4e5e92d20a20ba71db39.jpg" group-title="Chanel TV Indonesia Backup",Pretty TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg" group-title="Chanel TV Indonesia Backup",Gem TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg" group-title="Chanel TV Indonesia Backup",Joke TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/ONE%20TV.jpg" group-title="Chanel TV Indonesia Backup",One TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/GOSSIP.png" group-title="Chanel TV Indonesia Backup",Gossip
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg" group-title="Chanel TV Indonesia Backup",Fashion TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="Chanel TV Indonesia Backup",Travel TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="Chanel TV Indonesia Backup",Cooking TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" group-title="Chanel TV Indonesia Backup",Gaming TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/Fitness%20TV.jpg" group-title="Chanel TV Indonesia Backup",Fitness TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-wZnNFd0zVZ363F7dZTh3nGjQe_Khy8YUQ&usqp=CAU" group-title="Chanel TV Indonesia Backup",Knowledge+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg" group-title="Chanel TV Indonesia Backup",HowTo
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",TV5 Monde
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="http://images.useetv.com/logo_cctv4_big1.png" group-title="Chanel TV Indonesia Backup",CCTV 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",CGTN Documentary
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",CNA
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Euro news
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",France 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",CGTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Russia Today
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup",Arirang
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/wiontv.png" group-title="Chanel TV Indonesia Backup",Wion TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq-au4whdudWi4PK-_wP-4UXTvX2x4D4H5g&usqp=CAU" group-title="Chanel TV Indonesia Backup",Golf+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVQRXaV4mmzu6JElzDRkc10pu1d0kxQWVVg&usqp=CAU" group-title="Chanel TV Indonesia Backup",Football TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827d54aae33d56/a35aba41e139458d943185da7f8fe828.jpg" group-title="Chanel TV Indonesia Backup",Balap
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68578b331d80178b98f30f521de/a183b673e94841bd8aba200be9599aac.png" group-title="Chanel TV Indonesia Backup",Historical Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/MOTOR%20RACING.jpg" group-title="Chanel TV Indonesia Backup",Motor Racing
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/horizon_sports.png" group-title="Chanel TV Indonesia Backup",Horizon Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU" group-title="Chanel TV Indonesia Backup",Fight TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0IVntvUjuTWG5zm3EUuIRzgYmuY92v_6Q&usqp=CAU" group-title="Chanel TV Indonesia Backup",IDCyclist
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4LZwmwUHgXivUCnufIZ6xjD4ZV35YFKXUw&usqp=CAU" group-title="Chanel TV Indonesia Backup",Xtrem Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg" group-title="Chanel TV Indonesia Backup",Sports TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg" group-title="Chanel TV Indonesia Backup",Speed TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", DISCOVERY SCI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", SERIES ZONE
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", GEM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", CINEMA WORLD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", tvN
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", ZEE BIOSKOP
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", WARNER TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", TECHSTROM
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTINF:-1-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="Chanel TV Indonesia Backup", SUPERYATCH TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true", tvg-id="ksport1hd" group-title="Liga Inggris", USA Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#####Chanel TV Indonesia HD Backup#####
 
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris", Sky Premier League UK
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",RCTI
+https://maper.info/RCTI_shareext_ts|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",MNCTV
+https://maper.info/MNCTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",GTV
+https://maper.info/GTV_shareext_ts|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",INEWS
+https://maper.info/INEWS_shareext|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",SCTV
+https://maper.info/SCTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",INDOSIAR
+https://maper.info/INDOSIAR_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",TRANSTV
+https://maper.info/TRANSTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",TRANS7
+https://maper.info/TRANS7_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",ANTV
+https://maper.info/ANTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",TVONE
+https://maper.info/TVONE_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",NETTV
+https://maper.info/NETTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",METROTV
+https://maper.info/METROTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",KOMPASTV
+https://maper.info/KOMPASTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",RTV
+https://maper.info/RTV_shareext-xs|User-Agent=Shareext/2.2.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Kompastv_intec
+https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Tvri_intec
+https://flv.intechmedia.net/live/ch103.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", TvriSports_intec
+https://flv.intechmedia.net/live/ch105.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Sea today_intec
+https://flv.intechmedia.net/live/ch106.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", VTV_intec
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", ANTV_intec
+https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", tvOne_intec
+https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Metrotv_intec
+https://flv.intechmedia.net/live/ch110.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Magna Chanel_intec
+https://flv.intechmedia.net/live/ch111.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", BN Chanel_intec
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Btv_intec
+https://flv.intechmedia.net/live/ch113.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Net._intec
+https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ", Rtv_intec
+https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TV1O(P)
+http://103.237.32.213:9981/stream/channelid/606094233?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",METRO TV HD(P)
+http://103.237.32.213:9981/stream/channelid/1475621416?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",JITV(P)
+http://103.237.32.213:9981/stream/channelid/1117451157?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",BN CHANNEL(P)
+http://103.237.32.213:9981/stream/channelid/695468932?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",VTV HD(P)
+http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TVONE  HD(P)
+http://103.237.32.213:9981/stream/channelid/303387948?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",NET.HD(P)
+http://103.237.32.213:9981/stream/channelid/58782178?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",JOGJA TV(P)
+http://103.237.32.213:9981/stream/channelid/2043253364?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",E CHANNEL(P)
+http://103.237.32.213:9981/stream/channelid/562129238?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",BTV HD(P)
+http://103.237.32.213:9981/stream/channelid/1134603900?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",ANTV HD(P)
+http://103.237.32.213:9981/stream/channelid/787526729?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",SCTV HD(P)
+http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",RTV HD(P)
+http://103.237.32.213:9981/stream/channelid/1843224228?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",MOJI HD(P)
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",MENTARI HD(P)
+http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",KOMPASTV HD(P)
+http://103.237.32.213:9981/stream/channelid/958311693?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",INDOSIAR HD(P)
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",MTA TV(P)
+http://103.237.32.213:9981/stream/channelid/992056661?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TVRI World(P)
+http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TVRI Sport(P)
+http://103.237.32.213:9981/stream/channelid/2132584701?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TVRI Nasional HD(P)
+http://103.237.32.213:9981/stream/channelid/455417035?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TVRI Jateng(P)
+http://103.237.32.213:9981/stream/channelid/1786844649?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TVRI JOGJA HD(P)
+http://103.237.32.213:9981/stream/channelid/1656129049?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",SANGAJI TV(P)
+http://103.237.32.213:9981/stream/channelid/613163410?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",TA TV(P)
+http://103.237.32.213:9981/stream/channelid/782484923?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",Nusantara TV(P)
+http://103.237.32.213:9981/stream/channelid/1256118101?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",NET HD(P)
+http://103.237.32.213:9981/stream/channelid/1836125181?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",GARUDA TV(P)
+http://103.237.32.213:9981/stream/channelid/1129506846?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",ADITV(P)
+http://103.237.32.213:9981/stream/channelid/442538027?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",GTV HD(P)
+http://103.237.32.213:9981/stream/channelid/60098242?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",iNews HD(P)
+http://103.237.32.213:9981/stream/channelid/577841529?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",RCTI HD(P)
+http://103.237.32.213:9981/stream/channelid/1365658651?profile=pass
+#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Chanel TV Indonesia HD Backup ",MNCTV HD(P)
+http://103.237.32.213:9981/stream/channelid/1397747788?profile=pass
+#EXTINF:-1-id="RCTI.id" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ", RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ", MNCTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ", GTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ", INEWS (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ", ANTV_HD
+https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",Sctv_dens
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",INDONESIAna TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+#EXTINF:-1-logo="https://i.imgur.com/s2V9OMG.png?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", Dunia Lain_mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(65882da3-0da5-aaba-0c9a-e68ad5fb4ec9)/manifest.mpd
+#EXTINF:-1-logo="https://i.imgur.com/4P5UM89.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", JTV_kh
+http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c5.m3u8
+#EXTINF:-1-logo="https://i.imgur.com/BbPufM8.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", Indosiar_mbah
+#EXTINF:-1-logo="https://i.imgur.com/sHsPccL.png?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", SCTV_mbah
+http://stb.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847b.m3u8
+#EXTINF:-1-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", Trans7_mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa-c720-864e-0cb46a9f5c03)/manifest.mpd
+#EXTINF:-1-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", TransTV_mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:-1-logo="https://i.imgur.com/tIFiAdl.png?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", Garuda TV_mbah
+http://stb.mbahnunungonline.net/live/m3u8/id/b825800cf4d3aaa.m3u8
+#EXTINF:-1-logo="https://i.imgur.com/hwBnVIB.jpg?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", Nagaswara Digital
+#EXTINF:-1-logo="https://i.imgur.com/sxlxwvA.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", antv_mbah
+http://stb.mbahnunungonline.net/live/m3u8/id/b630a001384603f.m3u8
+#EXTINF:-1-logo="https://i.imgur.com/N1yKLa1.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", tvOne_mbah
+#EXTINF:-1-logo="https://i.imgur.com/XlZqfwV.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", rtv_mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+#EXTINF:-1-logo="https://i.imgur.com/jqNYjGu.png?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", NET..
+#EXTINF:-1-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", KompasTV..
+http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
+#EXTINF:-1-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", CNN Indonesia_mpd
+#EXTINF:-1-logo="https://i.imgur.com/mrkEXrh.png?v=1.1.1.1" group-title="Chanel TV Indonesia HD Backup ", BTV..
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
+#EXTINF:-1-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", Nusantara TV..
+#EXTINF:-1-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="Chanel TV Indonesia HD Backup ", CNBC Indonesia_mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e574e33-dea7-5e88-b5f8-7b4c189ab578)/manifest.mpd
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",BANDUNG•TV••🇮🇩
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",HOME•BETANG•TV••🇮🇩
+https://v3.siar.us:443/humabetangtv/live/chunks.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",MADU•TV••🇮🇩
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",NUSANTARA•TV••🇮🇩
+https://v5.siar.us:443/nusantaratv/live/chunks.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",PUJA•TV••🇮🇩
+https://v6.siar.us:443/pujatv/live/chunks.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",RCTV•🇮🇩
+https://v5.siar.us:443/rctv/live/chunks.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",SAKTI•TV••🇮🇩
+https://v5.siar.us:443/saktitv/live/chunks.m3u8
+#EXTINF:-1g-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",SURABAYA•TV••🇮🇩
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1up-title="Chanel TV Indonesia HD Backup " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
+https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
+#EXTINF:-1up-title="Chanel TV Indonesia HD Backup " tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="Chanel TV Indonesia HD Backup ",Kawanua TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Chanel TV Indonesia HD Backup ",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",TRANStv_dt
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Chanel TV Indonesia HD Backup ",TRANS7_dt
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Liga Inggris" tvg-id="" tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true",Canal+ Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
-https://cors-proxy.cluster.fun/https://hls-m006-live-aka-canalplus.akamaized.net/__token__exp%3D1701832695~acl%3D%2Flive%2Fdisk%2Fcanalpluspremierleague-hd%2F*~id%3D4c42f9e4-d743-4d3e-9e27-16afaade26e4~hmac%3Dff32a03a0bde61f0fd9ca786131fc271c01a15b468f4be026ce1375a8382a2cc/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
 
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , Eleven 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , Dazn 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , Eleven 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , Dazn 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , True  sport 2
-https://edge1.laotv.la/live/TrueSport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , True sport-2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , True sport 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , bein ais
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga Inggris" , Event only 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-
-
-#####ARENA SPORT#####
-
-#EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://i.ibb.co/KF4phjz/arenaesport.png" group-title="ARENA SPORT", ARENA ESPORT 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
-
-#EXTINF:-1 tvg-id="Arena Fight.ba" tvg-logo="https://i.ibb.co/j500zg4/afight.png" group-title="ARENA SPORT", ARENA FIGHT 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co/sggNDR7/a1.png" group-title="ARENA SPORT", ARENA SPORT 1 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.ibb.co/R4yyyng/a2.png" group-title="ARENA SPORT", ARENA SPORT 2 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.ibb.co/18LnFNg/a3.png" group-title="ARENA SPORT", ARENA SPORT 3 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.ibb.co/K99CqgQ/a4.png" group-title="ARENA SPORT", ARENA SPORT 4 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.ibb.co/MfCshjJ/a5.png" group-title="ARENA SPORT", ARENA SPORT 5 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://i.ibb.co/HH4TJ8T/a6.png" group-title="ARENA SPORT", ARENA SPORT 6 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#EXTINF:-1 tvg-id="Arena sport 1x2.ba" tvg-logo="https://i.ibb.co/PMMCbMR/a1x2.png" group-title="ARENA SPORT", ARENA SPORT 1x2 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qJFQ5GQ/arena.png" group-title="ARENA SPORT", ARENA SPORT PL 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://i.ibb.co/LkhJQrR/a1p.png" group-title="ARENA SPORT", ARENA SPORT PREMIUM 1 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co/HKHVbhz/a2p.png" group-title="ARENA SPORT", ARENA SPORT PREMIUM 2 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-
-#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co/dcN9dPL/a3p.png" group-title="ARENA SPORT", ARENA SPORT PREMIUM 3 🇧🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://i.ibb.co/h2bcqhS/arenasp1sk.png" group-title="ARENA SPORT", Arena Sport 1 🇸🇰
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.cluster.fun/https://cors-proxy.cluster.fun/https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
-
-##### DAZN ELEVEN #####
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" group-title="DAZN ELEVEN",DAZN ELEVEN 1
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2" group-title="DAZN ELEVEN",DAZN ELEVEN 2
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3" group-title="DAZN ELEVEN",DAZN ELEVEN 3
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" group-title="DAZN ELEVEN",DAZN ELEVEN 4
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 5" group-title="DAZN ELEVEN",DAZN ELEVEN 5
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 6" group-title="DAZN ELEVEN",DAZN ELEVEN 6
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 7" group-title="DAZN ELEVEN",DAZN ELEVEN 7
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 8" group-title="DAZN ELEVEN",DAZN ELEVEN 8
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 1" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 1
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-049/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 2" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 2
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-050/stream.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 3" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 3
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 4" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 4
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
