@@ -341,6 +341,76 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="" group-title="HBO Group",HBO
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/245.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="" group-title="HBO Group",HBO 2
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/248.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="HBO Group",HBO
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/255.ts
+
+#EXTINF:-1 tvg-name="HBO FAMILY HD" tvg-logo="" group-title="HBO Group",HBO Family
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/253.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
+#EXTINF:-1 tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="HBO Group",HBO Mundi
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/257.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
+#EXTINF:-1 tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="HBO Group",HBO POP
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/261.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
+#EXTINF:-1 tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="HBO Group",HBO Sig
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
+#EXTINF:-1 tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="HBO Group",HBO Xtreme
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
+#EXTINF:-1 vg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="HBO Group",Cinemax 
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/240
+
+#EXTINF:-1 tvg-id="US: ACTIONMAX EAST" tvg-name="CINEMAX ACTIONMAX UHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" group-title="HBO Group",CINEMAX ACTIONMAX UHD
+http://supersonictv.live:8080/VDuncan23/2103799937/22881
+
 <======================== Premium Movies ==========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -594,6 +664,231 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0 
 #EXTINF:-1 tvg-id="" tvg-url="tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Korean Channels",Nadoo Korean
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=lite&chname=NaDooKorean
+
+#EXTINF:-1 tvg-id="KRBC3200017JQ" tvg-chno="525" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230524T004412SQUARE.png_20230524004413.png" group-title="Korean Channels" , 🎶 뿅뿅 지구오락실 댄스 모음.Zip
+https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
+
+#EXTINF:-1 tvg-id="KRBC3200018FU" tvg-chno="526" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230524T004414SQUARE.png_20230524004415.png" group-title="Korean Channels" , 📁 뿅뿅 지구오락실 게임 모음.Zip
+https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
+
+
+#EXTINF:-1 tvg-id="KRBB5000073UD" tvg-chno="527" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20230524T004334SQUARE.png_20230524004335.png" group-title="Korean Channels" , MBC 그녀는 예뻤다
+https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+#EXTINF:-1 tvg-id="KRBC50000228B" tvg-chno="528" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230524T004327SQUARE.png_20230524004328.png" group-title="Korean Channels" , JTBC
+https://dcvuq39z8e7yl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xi1mq5v8z9kb/FC00000015.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+#EXTINF:-1 tvg-id="KRBB50000711L" tvg-chno="530" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230524T004339SQUARE.png_20230524004340.png" group-title="Korean Channels" , MBC
+https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+#EXTINF:-1 tvg-id="KRBB4200005CK" tvg-chno="531" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20230111T005228SQUARE.png_20230111005228.png" group-title="Korean Channels" , SBS 순옥명작관
+https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+
+#EXTINF:-1 tvg-id="KRBC3200031KO" tvg-chno="532" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20230524T004356SQUARE.png_20230524004356.png" group-title="Korean Channels" , tvN 비밀의 숲
+https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
+
+
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Korean Channels",KBS 1TV
+http://202.60.106.14:21585/200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Korean Channels",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Korean Channels",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Korean Channels",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Korean Channels",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Korean Channels",KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
+
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="Korean Channels",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Korean Channels",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Korean Channels",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Korean Channels",EBS 1TV
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Korean Channels",EBS 2TV
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Korean Channels",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Korean Channels",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Korean Channels",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Korean Channels",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Korean Channels",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Korean Channels",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Korean Channels",Arirang UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Korean Channels",Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Korean Channels",BBS TV
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Korean Channels",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVSouthKorean Channels.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="Korean Channels",CGNTV South Korean Channels
+https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Korean Channels",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Korean Channels",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTSTV.kr" tvg-logo="https://i.imgur.com/z3L8uNB.png" group-title="Korean Channels",CTS TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+
+#EXTINF:-1 tvg-id="FGTV.kr" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="Korean Channels",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/yzwtMOC.png" group-title="Korean Channels",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Korean Channels",Gongyoung Home Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="Korean Channels",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Korean Channels",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Korean Channels",Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="Korean Channels",Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Korean Channels",Hyundai Home Shopping + Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JobplusTV.kr" tvg-logo="https://i.imgur.com/Y5Zg5SR.png" group-title="Korean Channels",Jobplus TV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Korean Channels",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Korean Channels",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Korean Channels",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Korean Channels",MBC Every1
+https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+
+#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Korean Channels",NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="Korean Channels",NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NSHomeShopping.kr" tvg-logo="https://i.imgur.com/Q9xsDQo.png" group-title="Korean Channels",NS Home Shopping
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 tvg-id="NSShopPlus.kr" tvg-logo="https://i.imgur.com/7KmXNci.png" group-title="Korean Channels",NS Shop+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Korean Channels",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="Korean Channels",RUTC TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="Korean Channels",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SENTV.kr" tvg-logo="https://i.imgur.com/FimaHhq.png" group-title="Korean Channels",SEN TV
+https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
+
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Korean Channels",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Korean Channels",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Korean Channels",TBS TV
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="Korean Channels",TV CHOSUN
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Korean Channels",TV CHOSUN 2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WBCTV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="Korean Channels",WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WShopping.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Korean Channels",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBA3800002KI" tvg-id="USBA3800002KI" tvg-chno="1204" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/USBA3800002KI_20210525T051727.png" group-title="SAMSUNG CHANEL",America's Test Kitchen
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_americastestkitchen_001.m3u8
+
+#EXTINF:-1  channel-id="samsung-USBA300030Q8" tvg-id="USBA300030Q8" tvg-chno="1002" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20211230T073028.png" group-title="SAMSUNG CHANEL",BUZZR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ2200021NW" tvg-id="USAJ2200021NW" tvg-chno="1101" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/USAJ2200021NW_20211012T230724.png" group-title="SAMSUNG CHANEL",Brat TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bratus/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBA300032J7" tvg-id="USBA300032J7" tvg-chno="1104" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/90/USBA300032J7_20200819T020252.png" group-title="SAMSUNG CHANEL",FOX SOUL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-soul-samsung/playlist.m3u8
+
+="USAJ2200009C2" tvg-chno="1206" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USAJ2200009C2_20210525T051654.png" group-title="SAMSUNG CHANEL",Hungry
+https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBA300022JX" tvg-id="USBA300022JX" tvg-chno="1176" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/42/USBA300022JX_20210525T051540.png" group-title="SAMSUNG CHANEL",Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAK3508710A" tvg-id="USAK3508710A" tvg-chno="1132" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USAK3508710A_20210525T051616.png" group-title="SAMSUNG CHANEL",Law & Crime
+https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LawAndCrime/playlist.m3u8
+
+#EXTINF:-1  channel-id="samsung-USBA300024TN" tvg-id="USBA300024TN" tvg-chno="1006" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN_20210720T084138.png" group-title="SAMSUNG CHANEL",LiveNOW from FOX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+
+#EXTINF:-1  channel-id="samsung-USBB1000002TK" tvg-id="USBB1000002TK" tvg-chno="1003" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/96/USBB1000002TK_20211230T073108.png" group-title="SAMSUNG CHANEL",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB3200004X3" tvg-id="USBB3200004X3" tvg-chno="1128" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/USBB3200004X3_20210824T091330.png" group-title="SAMSUNG CHANEL",Dr. G: Medical Examiner
+https://d2j25awujlvs9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/DrGMedicalExaminer-prod/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ22000130U" tvg-id="USAJ22000130U" tvg-chno="1096" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/00/USAJ22000130U_20200819T020336.png" group-title="SAMSUNG CHANEL",MHz Now
+https://f8f59665a66d47ab9f9e8c2b7e6881e1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MHz/playlist.m3u8
 
 <================ Knowledge & Documentary ==========================>
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1958,96 +2253,6 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
-============= EURO 2024 =============
-
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 1 HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200208
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 2 HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200206
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 3 HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200205
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 4  HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200204
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 5  HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200203
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 6 HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200202
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 7 HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200201
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6XJ_Fo-Y5e1ZgXGMpFFvFfTvNsTlGxJ96M50Nxs7F8krlW6cB75ATWrQ&s=10" group-title="OPTUS SPORTS" ,  Optus 8 HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/200200
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vdq1da1711531771.jpg/preview", 15 JUNI 2024 - 02:00 WIB | JERMAN VS SKOTLANDIA 
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/qs8hot1711531772.jpg/preview", 15 JUNI 2024 - 20:00 WIB | HONGARIA VS SWISS
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8a1ntm1711531773.jpg/preview", 15 JUNI 2024 - 23:00 WIB | SPANYOL VS KROASIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/va1g9f1711531774.jpg/preview", 16 JUNI 2024 - 02:00 WIB | ITALIA VS ALBANIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/5atgby1711531775.jpg/preview", 16 JUNI 2024 - 20:00 WIB | POLANDIA VS BELANDA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ncl76s1711531776.jpg/preview", 16 JUNI 2024 - 23:00 WIB | SLOVENIA VS DENMARK
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/i2wgcn1711531777.jpg/preview", 17 JUNI 2024 - 02:00 WIB | SERBIA VS INGGRIS
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ir3d891711531778.jpg/preview", 17 JUNI 2024 - 20:00 WIB | RUMANIA VS UKRAINA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/yy08sw1711531779.jpg/preview", 17 JUNI 2024 - 23:00 WIB | BELGIA VS SLOWAKIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/m4dhgf1711531780.jpg/preview", 18 JUNI 2024 - 02:00 WIB | AUSTRIA VS PRANCIS 
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/do8clj1711531781.jpg/preview", 18 JUNI 2024 - 23:00 WIB | TURKI VS GEORGIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/mwotsm1711531782.jpg/preview", 19 JUNI 2024 - 02:00 WIB | PORTUGAL VS CEKO
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8mf4sd1711531784.jpg/preview", 19 JUNI 2024 - 20:00 WIB | KROASIA VS ALBANIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/i9pwrj1711531785.jpg/preview", 19 JUNI 2024 - 23:00 WIB | JERMAN VS HONGARIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/mhw2y11711531786.jpg/preview", 20 JUNI 2024 - 02:00 WIB | SKOTLANDIA VS SWISS
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ejpkwd1711531787.jpg/preview", 20 JUNI 2024 - 20:00 WIB | SLOVENIA VS SERBIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/o1umq71711531788.jpg/preview", 20 JUNI 2024 - 23:00 WIB | DENMARK VS INGGRIS
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/q354121711531789.jpg/preview", 21 JUNI 2024 - 02:00 WIB | SPANYOL VS ITALIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/no378z1711531791.jpg/preview", 21 JUNI 2024 - 20:00 WIB | SLOWAKIA VS UKRAINA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ss9zbc1711531792.jpg/preview", 21 JUNI 2024 - 23:00 WIB | POLANDIA VS AUSTRIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dal3781674233966.jpg/preview", 22 JUNI 2024 - 02:00 WIB | BELANDA VS PRANCIS
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ul9m1o1711531793.jpg/preview", 22 JUNI 2024 - 20:00 WIB | GEORGIA VS CEKO
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dbpu6u1711531794.jpg/preview", 22 JUNI 2024 - 23:00 WIB | TURKI VS PORTUGAL 
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/feiz0p1711531795.jpg/preview", 23 JUNI 2024 - 02:00 WIB | BELGIA VS RUMANIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/3h9xuj1711531796.jpg/preview", 24 JUNI 2024 - 02:00 WIB | SWISS VS JERMAN
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/3740381711531797.jpg/preview", 24 JUNI 2024 - 02:00 WIB | SKOTLANDIA VS HONGARIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/79c1n91711531799.jpg/preview", 25 JUNI 2024 - 02:00 WIB | ALBANIA VS SPANYOL
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/mlre2m1711531798.jpg/preview", 25 JUNI 2024 - 02:00 WIB | KROASIA VS ITALIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/mcetis1711531801.jpg/preview", 25 JUNI 2024 - 23:00 WIB | PRANCIS VS POLANDIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/xtcbkm1711531802.jpg/preview", 25 JUNI 2024 - 23:00 WIB | BELANDA VS AUSTRIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/4vpiu91711531805.jpg/preview", 26 JUNI 2024 - 02:00 WIB | DENMARK VS SERBIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1wxesm1711531803.jpg/preview", 26 JUNI 2024 - 02:00 WIB | INGGRIS VS SLOVENIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/fgjwt61711531807.jpg/preview", 26 JUNI 2024 - 23:00 WIB | SLOWAKIA VS RUMANIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/gumeka1711531806.jpg/preview", 26 JUNI 2024 - 23:00 WIB | UKRAINA VS BELGIA
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ezo3oy1711531809.jpg/preview", 27 JUNI 2024 - 02:00 WIB | GEORGIA VS PORTUGAL
-http://ikitv.online/x/sonyten.m3u8
-#EXTINF:-1 group-title="Live EURO 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/.jpg/preview", 27 JUNI 2024 - 23:00 WIB | CEKO VS TURKI
-http://ikitv.online/x/sonyten.m3u8
 
 <---------------------- Trial Sports ------------------------>
 
@@ -2528,55 +2733,94 @@ https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
 #####Premier League#####
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="Premier League",Astro EPL 01(Events Only)
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110276
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="Premier League",Astro EPL 02(Events Only)
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110277
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="Premier League",Astro EPL 03(Events Only)
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110278
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="Premier League",Astro EPL 04(Events Only)
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110279
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="Premier League",Astro EPL 05(W SPORTS)
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110280
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW PREMIER 1(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110622&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW SPORTS 1
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110615&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW SPORTS 2
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110616&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW SPORTS 3
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110617&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW SPORTS 4
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110618&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW SPORTS 5
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110619&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW SPORTS 6
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110620&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",NOW SPORTS 7
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1110621&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 1 FHD(Events Only)
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/148158.ts
-#http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032529&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 2 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032528&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 3 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032527&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 4 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032526&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 5 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032525&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 6 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032524&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 7 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032523&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 8 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032522&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 9 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032521&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 10 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032520&extension=ts&play_token=7pY8UHAipV
-#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Premier League",HUB PREMIER 11 FHD(Events Only)
-http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1032519&extension=ts&play_token=7pY8UHAipV
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",Premier League 1
+http://ottshow.net:80/Benjamin240121/Benjamin240121/39886
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",Premier League 2
+http://ottshow.net:80/Benjamin240121/Benjamin240121/39887
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",Premier League 3
+http://ottshow.net:80/Benjamin240121/Benjamin240121/39888
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",Premier League 4
+http://ottshow.net:80/Benjamin240121/Benjamin240121/39889
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",SPORT SLO1
+http://ottshow.net:80/Benjamin240121/Benjamin240121/206
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",SPORT SLO2
+http://ottshow.net:80/Benjamin240121/Benjamin240121/207
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",SPORT SLO3
+http://ottshow.net:80/Benjamin240121/Benjamin240121/208
+
+#EXTINF:-1 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="Premier League",SONY SPORTS TEN 1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157880.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="Premier League",SONY SPORTS TEN 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="Premier League",SONY SPORTS TEN 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157878.m3u8
+
+#EXTINF:-1 tvg-country=US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="Premier League",SONY SPORTS TEN 4
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#EXTINF:-1 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="Premier League",SONY SPORTS TEN 5
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben2.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
+
+
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
+
+#####SAMSUNG CHANEL#####
+
+
+#EXTINF:-1 channel-id="samsung-USBB40000028E" tvg-id="USBB40000028E" tvg-chno="1034" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USBB40000028E_20211027T003953.png" group-title="SAMSUNG CHANEL",NBCLX
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ34000022E" tvg-id="USAJ34000022E" tvg-chno="1078" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E20200730102745.png" group-title="SAMSUNG CHANEL",Nosey
+https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-561d7d484dc7c8770484914a" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" tvg-chno="30" group-title="AMERIKA🇺🇲" , Pluto TV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 channel-id="samsung-USBA3800003VP" tvg-id="USBA3800003VP" tvg-chno="1089" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/71/USBA3800003VP_20210525T051455.png" group-title="SAMSUNG CHANEL",Revry
+https://d36jpyyja698yd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Revry2-prod/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBA300029RP" tvg-id="USBA300029RP" tvg-chno="1069" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20210525T051509.png" group-title="SAMSUNG CHANEL",The Bob Ross Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/xumo-host-samsung-bobross/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB32000251N" tvg-id="USBB32000251N" tvg-chno="1019" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/31/USBB32000251N_20210824T091345.png" group-title="SAMSUNG CHANEL",TODAY All Day
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_todayallday_001.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBA30002142" tvg-id="USBA30002142" tvg-chno="1032" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="SAMSUNG CHANEL",TYT Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB3200018Q6" tvg-id="USBB3200018Q6" tvg-chno="1135" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/12/USBB3200018Q6_20210824T091344.png" group-title="SAMSUNG CHANEL",Unsolved Mysteries
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_unsolvedmysteries_001.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB1900006NY" tvg-id="USBB1900006NY" tvg-chno="1086" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/13/USBB1900006NY_20210622T090615.png" group-title="SAMSUNG CHANEL",VICE
+https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB4400001QA" tvg-id="USBB4400001QA" tvg-chno="1037" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/98/USBB4400001QA_20211117T100426.png" group-title="SAMSUNG CHANEL",WeatherNation
+https://d2yncmyfd5a535.cloudfront.net/dmachannel/weathernationPP_NAME%7D
+
 
 
 #####La Liga#####
