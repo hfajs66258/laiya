@@ -208,7 +208,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_960
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Indonesia Channels" ,SCTV
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",SCTV HD(P)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Indonesia Channels",SCTV HD(P)
 http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Indonesia Channels",SCTV 2
