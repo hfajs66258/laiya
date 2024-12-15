@@ -1,130 +1,74 @@
 #EXTM3U
+#####SPO-TV#####
 
-
-#####TV INDONESIA#####
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="TV INDONESIA", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="TV INDONESIA",TRANS 7 2
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TV INDONESIA",TRANS 7 3
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="TV INDONESIA",TRANS TV
-https://rebrand.ly/gratistvmedia/transtv-m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TV INDONESIA",TRANS TV 2
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://gg.gg/TvKesehatan_png" group-title="TV INDONESIA",Tv Kesehatan
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png" group-title="TV INDONESIA",SEA Today
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
-
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", Sea today2
-https://flv.intechmedia.net/live/ch106.m3u8|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seru_small.png" group-title="TV INDONESIA",Seru Channel
-https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://rebrand.ly/gratistvmedia/sangaji_tv/logo/png" group-title="TV INDONESIA",Sangaji Tv
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://gg.gg/SaktiTv_png" group-title="TV INDONESIA",SAKTI TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://gg.gg/SaliraTv_png" group-title="TV INDONESIA", Salira Tv
-https://5bf7b725107e5.streamlock.net/saliratv/saliratv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://gg.gg/SabantenTv-logo" group-title="TV INDONESIA",Sabanten Tv
-https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/media.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://gg.gg/SampitTv_png" group-title="TV INDONESIA",Sampit Tv
-#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch56.m3u8
-
-#EXTINF:-1 tvg-logo="http://gg.gg/RCTV_png" group-title="TV INDONESIA",RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1" group-title="TV INDONESIA",Nusantara TV (Server: 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="TV INDONESIA",NET TV
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", NET TV 2
-https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-logo="https://rebrand.ly/gratistvmedia/moji/logo/png" group-title="TV INDONESIA", Moji Tv
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="TV INDONESIA",Mentari Tv
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="TV INDONESIA",Mentari Tv Server : 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPO-TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://gg.gg/MagnaChannel-logo" group-title="TV INDONESIA", Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="SPO-TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", Magna Chanel 2
-https://flv.intechmedia.net/live/ch111.m3u8|user-agent=Mozilla/5.0
+#####LIVE-BOLA#####
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="TV INDONESIA",Maxtream Tv
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="LIVE-BOLA",Indosiar 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="TV INDONESIA", JTV
-http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c5.m3u8
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/inspira/logo/png" group-title="TV INDONESIA", Inspira TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIVE-BOLA" tvg-logo="https://anutv.xyz/gambar/bri.jpg",Sportstars 2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_insert_small1.png" group-title="TV INDONESIA",Insert
-https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", Kompastv
-https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIVE-BOLA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
+#https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", VTV
-https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/royqep3xryxyqtv/soccer.png" group-title="LIVE-BOLA", Soccer Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA",VTV 2
-http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIVE-BOLA" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beIN Sports 1 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", ANTV
-https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", TVONE
-https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIVE-BOLA" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TV INDONESIA",TVONE 2
-https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIVE-BOLA" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3  
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA", BN Chanel
-https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIVE-BOLA" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
-#EXTINF:-1g-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV INDONESIA",TV1O
-http://103.237.32.213:9981/stream/channelid/606094233?profile=pass
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TV INDONESIA",Indosiar
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="TV INDONESIA",SCTV
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="LIVE-BOLA" tvg-logo="ttps://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 #####Indonesia Channels#####
