@@ -4,5 +4,5 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPO-TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+#EXTINF:-1 group-title="SPO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 https://su00youing-cf.tikballaa.com
